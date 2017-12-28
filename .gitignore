@@ -1,0 +1,6 @@
+[Oo]bjs
+[Bb]in
+
+*.o 
+*.a
+*.so
