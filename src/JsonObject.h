@@ -7,7 +7,9 @@ class JsonObject
 {
 public:
     JsonObject();
-    virtual ~JsonObject();
+    ~JsonObject();
+
+    
 };
 
 #endif // _JSON_OBJECT_H_
